@@ -24,7 +24,7 @@ The constant dopamine hit can lead to loss of productivity, anxiety, polarizatio
 
 At its most extreme, the engagement that social media algorithms impose can lead us down paths of radicalization and self-harm.
 
-Twitter is a fantastic service when used correctly. You can connect with people in your hobby, industry, interests, etc. and gain a lot of value from it. Nonetheless, we shouldn't lose sight of the harm it can cause.
+Twitter is a fantastic service when used mindfully. You can connect with people in your hobby, industry, interests, etc. and gain a lot of value from it. Nonetheless, we shouldn't lose sight of the harm it can cause.
 
 While we can explicitly curate our own Twitter timelines by unfollowing and muting others, there are two temptations in the front and center of Twitter: The Explore tab and What's Happening.
 
