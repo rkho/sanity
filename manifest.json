@@ -1,0 +1,12 @@
+{
+  "name": "Sanity",
+  "version": "1.0",
+  "description": "A Chrome extension to hide TWitter Trending Topics",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+        "matches": ["*://*.twitter.com/*"],
+        "js": ["/content_script.js"]
+    }
+  ]
+}
