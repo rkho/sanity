@@ -4,6 +4,13 @@
 
 A Chrome extension which hides the "Explore" tab and the "What's Happening" card on Twitter.
 
+## Install
+
+1. Visit `chrome://extensions`
+2. Toggle Developer Mode
+3. Select "Load unpacked extension"
+4. Point to the folder where you've downloaded this extension
+
 ## Why?
 
 As documentaries like [The Social Dilemma](https://www.netflix.com/title/81254224) have shown us, social media feeds on engagement.
