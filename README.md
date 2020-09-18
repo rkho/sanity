@@ -54,4 +54,3 @@ Your contributions in making this more resilient are greatly appreciated.
 ## Support
 
 None, sorry! I hacked this together in a couple minutes.
-
