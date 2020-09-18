@@ -56,4 +56,7 @@ Your contributions in making this more resilient are greatly appreciated.
 
 ## Support
 
-None, sorry! I hacked this together in a couple minutes.
+Future extensability in the backlog:
+
+- Choosing other parts of the UI to hide (i.e. Notifications, post metrics such as number of likes, replies)
+- Support for other social media sites (I'm looking at you, Zuck)
