@@ -17,7 +17,9 @@ As documentaries like [The Social Dilemma](https://www.netflix.com/title/8125422
 
 The more a company knows about us, the more it can curate our feeds with content that causes us to engage.
 
-This content can be polarizing, depressing, and cause damage to one's mental health. At its most extreme, it can radicalize people and lead to self-harm.
+The constant dopamine hit can lead to polarization, depression, and other detriments to your mental health.
+
+At its most extreme, the engagement that social media algorithms impose can lead us down paths of radicalization and self-harm.
 
 Twitter is a fantastic service when used correctly. You can connect with people in your hobby, industry, interests, etc. and gain a lot of value from it.
 
