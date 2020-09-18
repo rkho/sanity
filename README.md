@@ -28,7 +28,7 @@ Twitter is a fantastic service when used mindfully. You can connect with people 
 
 While we can explicitly curate our own Twitter timelines by unfollowing and muting others, there are two temptations in the front and center of Twitter: The Explore tab and What's Happening.
 
-Sanity puts you in control.
+Sanity puts you in control by removing the parts of Twitter that you can't.
 
 ## How
 
