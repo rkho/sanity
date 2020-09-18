@@ -1,5 +1,7 @@
 # Sanity
 
+![Screenshot of how your Twitter homepage will look after installation](./screenshot.png)
+
 ## What
 
 A Chrome extension which hides the "Explore" tab and the "What's Happening" card on Twitter.
