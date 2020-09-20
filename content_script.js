@@ -12,7 +12,7 @@
 setInterval(function () {
   // JP: Timeline: Trend
 
-  var trending = document.querySelector('[class="css-1dbjc4n r-1uaug3w r-1uhd6vh r-1ylenci r-1phboty r-rs99b7 r-ku1wi2 r-1udh08x"]');
+  var trending = document.querySelector('[class="css-1dbjc4n r-1uaug3w r-1uhd6vh r-1ylenci r-1phboty r-rs99b7 r-dr54s0 r-1udh08x"]');
   var explore = document.querySelector('[href="/explore"]');
 
   if (trending) {
