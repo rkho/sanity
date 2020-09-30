@@ -1,25 +1,25 @@
-// const trendingLabel = {
-//   ar: "الخطّ الزمنيّ: المتداوَل الآن",
-//   de: 'Timeline: Aktuelle Trends',
-//   en: 'Timeline: Trending now',
-//   eu: 'Denbora lerroa: Joera orain',
+function removeAnnoyances() {
+  var trendingCard = document.querySelector(
+    '[aria-label="Timeline: Trending now"]'
+  );
 
-// };
+  var exploreButton = document.querySelector(
+    '[aria-label="Search and explore"]'
+  );
 
-// var language = document.getElementsByTagName('html')[0].getAttribute('lang');
-// console.log(language);
+  trendingCard &&
+    trendingCard.parentNode.parentNode.parentNode.parentNode.remove();
 
-setInterval(function () {
-  // JP: Timeline: Trend
+  exploreButton && exploreButton.remove();
+}
 
-  var trending = document.querySelector('[class="css-1dbjc4n r-1uaug3w r-1uhd6vh r-1ylenci r-1phboty r-rs99b7 r-dr54s0 r-1udh08x"]');
-  var explore = document.querySelector('[href="/explore"]');
+function watchMain() {
+  var main = document.getElementById("react-root").firstChild.firstChild;
 
-  if (trending) {
-    trending.parentElement.removeChild(trending);
-  }
+  new MutationObserver(removeAnnoyances).observe(main, {
+    subtree: true,
+    childList: true,
+  });
+}
 
-  if (explore) {
-    explore.parentElement.removeChild(explore);
-  }
-}, 500);
+watchMain();
